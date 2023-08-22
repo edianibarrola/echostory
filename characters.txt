@@ -56,6 +56,8 @@ Characters:
         Role: Xiaojian council member.
         Background: Betrays Jahntow and aids Vortex. Later revealed to be the father of Ava.
 
+Comedic Relief Robot: A quirky robot assisting Jahntow and Echo. Provides uplifting support despite constant glitches.
+
   Xaezor, CEO of Vortex Corp:
 
     Role: Main antagonist and leader of Vortex Corporation.
