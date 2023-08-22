@@ -55,18 +55,24 @@
 **Architecture/Culture:**
 - **Xiaojians:** Pagoda towers blended into bamboo forests with curved bridges connecting various structures. They value harmony between civilization and wilderness, training Pandalings as companions and protectors, emphasizing balance and inner peace.
 
-**Characters:**
-- **Master Zhenwu:** Aged Xiaojian martial arts mentor who makes the ultimate sacrifice.
-- **Ava:** Xiaojian medic torn between Jahntow and her father, Director Zerrok. Dies after letting her traitorous father go.
-- **Director Zerrok:** Xiaojian council member who betrayed Jahntow and aided Vortex. Father of Ava.
+Arc 3 - Xiaojians:
 
-**Missions:**
-1. **Gather Data on Vortex Deforestation:** Jahntow, Ava, and Master Zhenwu collect evidence of Vortex's rampant deforestation, aiming to rally support against them.
-2. **Sabotage Lumber Equipment:** The trio covertly damages Vortex's logging machinery, slowing down their deforestation efforts.
-3. **Rescue Pandalings:** Jahntow and his allies save Pandalings captured by Vortex, ensuring the safety of these revered creatures.
-4. **Bomb Vortex Airships:** The team conducts aerial assaults, targeting Vortex airships that transport logged wood.
-5. **Convince Mercenaries to Defect:** Jahntow, Ava, and Master Zhenwu approach mercenaries in Vortex's employ, persuading them to join the Xiaojian cause.
-6. **Final Stand in Ancient Tree City:** The climax sees the trio leading a defense of a historic tree city, a symbol of Xiaojian heritage, against a massive Vortex onslaught.
+Characters:
+
+    Jahntow: A central figure in the resistance against Vortex, often taking the lead in missions and forming bonds with key allies.
+    Elder Binru: A wise and experienced member of the Xiaojian community, assisting in covert operations against Vortex.
+    Ava: Xiaojian medic torn between Jahntow and her father, Director Zerrok. Dies after letting her traitorous father go.
+    Master Zhenwu: Aged Xiaojian martial arts mentor who makes the ultimate sacrifice.
+    Director Zerrok: Xiaojian council member who betrayed Jahntow and aided Vortex. Father of Ava.
+
+Missions:
+
+    Infiltrate Lumber Facility: Jahntow and Elder Binru sneak into the lumber facility to gather crucial data on Vortex's deforestation activities.
+    Join Xiaojian Rebels: Jahntow collaborates with Ava and the Xiaojian rebels to sabotage Vortex's lumber equipment, hindering their deforestation efforts.
+    Rescue Caged Pandalings: Jahntow and Ava embark on a mission to free the captured Pandalings from Vortex's encampment, strengthening their bond in the process.
+    Dragonbone Bombing Run: Under the guidance of Master Zhenwu, Jahntow and his allies execute a daring dragonbone bombing run, targeting Vortex's airships.
+    Defection and Tragedy: Ava takes the lead in convincing more Vortex mercenaries to defect. However, the mission takes a tragic turn when she and her father, Zerrok, are killed by Vortex.
+    Final Stand in Ancient Tree City: In a climactic battle, Jahntow, Master Zhenwu, and the Xiaojian warriors defend the ancient tree city against Vortex. The battle sees the heroic sacrifice of Master Zhenwu.
 
 
 
