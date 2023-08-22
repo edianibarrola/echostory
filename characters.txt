@@ -1,0 +1,72 @@
+
+
+Characters:
+
+    Jahntow:
+        Role: Central protagonist.
+        Background: Orphaned human raised on Zephyr by Echo AI after surviving a spaceship crash. Grew up an outsider among the alien species. Trades goods between factions.
+        Relationships: Close bond with Zu'ark, hinted at possibly becoming romantic. Has a deep connection with Echo, his caretaker AI.
+
+    Echo:
+        Role: Jahntow's caretaker/companion AI.
+        Personality: Logical, fixated on protecting and educating Jahntow due to its programming.
+
+    Zu'ark:
+        Role: Fierce Xictlian warrior.
+        Background: Allied with Jahntow. Helps him connect with desert tribes and drive out Vortex.
+        Relationships: Close bond with Jahntow, hinted at possibly becoming romantic.
+
+    Master Zhenwu:
+        Role: Aged Xiaojian martial arts mentor.
+        Background: Initially dismissive of Jahntow but earns his respect after saving students from Vortex. Makes the ultimate sacrifice.
+
+    Ava:
+        Role: Xiaojian medic.
+        Background: Torn between loyalty to Jahntow and her father Director Zerrok who betrayed them. Dies protecting refugees.
+
+    Axenthon:
+        Role: Young idealistic Luxorian pharaoh.
+        Background: Helps Jahntow expose Vortex's desecration of ancestral sites.
+
+    Quirky comedic relief robot:
+        Role: Assisting Jahntow and Echo.
+        Personality: Provides uplifting support despite constant glitches. Makes a heroic sacrifice.
+
+    Zhalia:
+        Role: Namarupian oracle.
+        Background: Guides Jahntow on his destiny. Dies fighting Vortex leader after transferring power to Jahntow.
+
+    Ve'ran:
+        Role: Zu'ark's priest brother.
+        Background: Jahntow rescues him, earning his allyship. Helps unlock Xictlian rituals.
+
+    Sekhmet:
+        Role: Young Luxorian builder.
+        Background: Looks up to Jahntow and helps infiltrate Vortex.
+
+    Elder Binru:
+        Role: Aged Xiaojian council member.
+        Background: Advises Jahntow.
+
+    Kazon:
+        Role: Brash young Titan.
+        Background: Helps forge an alliance with his people.
+
+    Director Zerrok:
+        Role: Xiaojian council member.
+        Background: Betrays Jahntow and aids Vortex. Later revealed to be the father of Ava.
+
+  Xaezor, CEO of Vortex Corp:
+
+    Role: Main antagonist and leader of Vortex Corporation.
+    Background: As the CEO of Vortex Corp, Xaezor is responsible for the corporation's aggressive expansion and exploitation of Zephyr's resources. He's a shrewd businessman with a vision of galactic dominance.
+    Personality: Charismatic yet ruthless, Xaezor is a master manipulator. He believes in the corporate mantra of "profit above all" and views the indigenous species of Zephyr as mere commodities.
+    Relationships: Views Jahntow as a significant threat to his plans. While he has a vast network of loyal Vortex operatives, mercenaries, and even some traitors from Zephyr's tribes, his relationship with them is purely transactional.
+    Motivation: Driven by insatiable greed and a vision of a universe under Vortex's control. He sees Zephyr as a stepping stone to greater conquests.
+    Conflict: Orchestrates various schemes to undermine Jahntow and his allies, from direct military confrontations to subterfuge and manipulation.
+    Revelation: It's revealed that Xaezor had a hand in the events that led to Jahntow being orphaned and stranded on Zephyr, adding a personal dimension to their conflict.
+    Resolution: In the climax, Xaezor confronts Jahntow and his allies in a battle of both wits and firepower. The outcome of this confrontation has profound implications for the future of Zephyr.
+
+Xaezor's machinations and the threat of Vortex Corp provide the central conflict of the story, pushing Jahntow and his allies to their limits as they fight to protect their home.
+
+Let me know if you need further details or any other information!
