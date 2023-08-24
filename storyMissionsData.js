@@ -37,7 +37,7 @@ const storyMissionsData = {
   
       requiredMissionWins: 5,
     },
-    "Energized Negotiations": {
+    "Free Oases": {
       species: "Aelithians",
       "Required Credits": 1000,
       "Required Energy": 10,
@@ -55,7 +55,7 @@ const storyMissionsData = {
   
       requiredMissionWins: 10,
     },
-    "Celestial Harmony": {
+    "Repel Invasions": {
       species: "Aelithians",
       "Required Credits": 1400,
       "Required Energy": 14,
@@ -74,7 +74,7 @@ const storyMissionsData = {
       requiredMissionWins: 15,
     },
   
-    "Temporal Labyrinth": {
+    "Fortify Temples": {
       species: "Cepharians",
       "Required Credits": 700,
       "Required Energy": 7,
@@ -92,7 +92,7 @@ const storyMissionsData = {
   
       requiredMissionWins: 20,
     },
-    "Subterranean Reclamation": {
+    "Lead Sandstorm Offensives": {
       species: "Cepharians",
       "Required Credits": 900,
       "Required Energy": 9,
@@ -110,7 +110,7 @@ const storyMissionsData = {
   
       requiredMissionWins: 25,
     },
-    "Astral Harmonics": {
+    "Infiltrate Vortex Camps": {
       species: "Cepharians",
       "Required Credits": 1200,
       "Required Energy": 12,
@@ -128,7 +128,7 @@ const storyMissionsData = {
   
       requiredMissionWins: 30,
     },
-    "Nebula Odyssey": {
+    "Sabotage Supply Lines": {
       species: "Cepharians",
       "Required Credits": 1600,
       "Required Energy": 16,
@@ -147,7 +147,7 @@ const storyMissionsData = {
       requiredMissionWins: 35,
     },
   
-    "Sonic Resonance": {
+    "Persuade Mercenaries to Defect": {
       species: "Velorans",
       "Required Credits": 800,
       "Required Energy": 8,
@@ -165,7 +165,7 @@ const storyMissionsData = {
   
       requiredMissionWins: 40,
     },
-    "Crystal Core": {
+    "Hack Vortex Terraforming Tech": {
       species: "Velorans",
       "Required Credits": 1000,
       "Required Energy": 10,
@@ -183,7 +183,7 @@ const storyMissionsData = {
   
       requiredMissionWins: 45,
     },
-    "Luminous Unison": {
+    "Lead Stampede Assaults": {
       species: "Velorans",
       "Required Credits": 1300,
       "Required Energy": 13,
@@ -201,7 +201,7 @@ const storyMissionsData = {
   
       requiredMissionWins: 50,
     },
-    "Celestial Nexus": {
+    "Defend Sacred Groves": {
       species: "Velorans",
       "Required Credits": 1800,
       "Required Energy": 18,
@@ -220,7 +220,7 @@ const storyMissionsData = {
       requiredMissionWins: 55,
     },
   
-    "Eclipse Ritual": {
+    "Infiltrate Lumber Facility": {
       species: "Drakorians",
       "Required Credits": 900,
       "Required Energy": 9,
@@ -238,7 +238,7 @@ const storyMissionsData = {
   
       requiredMissionWins: 60,
     },
-    "Flameforged Relics": {
+    "Join Xiaojian Rebels": {
       species: "Drakorians",
       "Required Credits": 1100,
       "Required Energy": 11,
@@ -256,7 +256,7 @@ const storyMissionsData = {
   
       requiredMissionWins: 65,
     },
-    "Stellar Aegis": {
+    "Rescue Caged Pandalings": {
       species: "Drakorians",
       "Required Credits": 1400,
       "Required Energy": 14,
@@ -274,7 +274,7 @@ const storyMissionsData = {
   
       requiredMissionWins: 70,
     },
-    "Celestial Confluence": {
+    "Dragonbone Bombing Run": {
       species: "Drakorians",
       "Required Credits": 1900,
       "Required Energy": 19,
@@ -293,7 +293,7 @@ const storyMissionsData = {
       requiredMissionWins: 75,
     },
   
-    "Luminous Correlation": {
+    "Defection and Tragedy": {
       species: "Thelorians",
       "Required Credits": 1000,
       "Required Energy": 10,
@@ -311,7 +311,7 @@ const storyMissionsData = {
   
       requiredMissionWins: 80,
     },
-    "Ethereal Nexus": {
+    "Final Stand in Ancient Tree City": {
       species: "Thelorians",
       "Required Credits": 1200,
       "Required Energy": 12,
@@ -329,7 +329,7 @@ const storyMissionsData = {
   
       requiredMissionWins: 85,
     },
-    "Harmonic Resonance": {
+    "Scout Vortex Mines": {
       species: "Thelorians",
       "Required Credits": 1500,
       "Required Energy": 15,
@@ -347,7 +347,7 @@ const storyMissionsData = {
   
       requiredMissionWins: 90,
     },
-    "Astral Rhapsody": {
+    "Collapse Mining Tunnels": {
       species: "Thelorians",
       "Required Credits": 2000,
       "Required Energy": 20,
@@ -366,7 +366,7 @@ const storyMissionsData = {
       requiredMissionWins: 95,
     },
   
-    "Celestial Echo": {
+    "Use Yeti Allies for Spying": {
       species: "Zeraphans",
       "Required Credits": 1100,
       "Required Energy": 11,
@@ -384,7 +384,7 @@ const storyMissionsData = {
   
       requiredMissionWins: 100,
     },
-    "Nebula Synchrony": {
+    "Lead Mech Assaults": {
       species: "Zeraphans",
       "Required Credits": 1300,
       "Required Energy": 13,
@@ -402,7 +402,7 @@ const storyMissionsData = {
   
       requiredMissionWins: 105,
     },
-    "Ethereal Convergence": {
+    "Persuade Titan Clans to Unite": {
       species: "Zeraphans",
       "Required Credits": 1600,
       "Required Energy": 16,
@@ -420,7 +420,7 @@ const storyMissionsData = {
   
       requiredMissionWins: 110,
     },
-    "Cosmic Overture": {
+    "Defend Mountain Fortresses": {
       species: "Zeraphans",
       "Required Credits": 2200,
       "Required Energy": 22,
@@ -439,7 +439,7 @@ const storyMissionsData = {
       requiredMissionWins: 115,
     },
   
-    "Cosmic Confrontation - Part 1": {
+    "Infiltrate Logging Facilities": {
       "Required Credits": 3000,
       "Required Energy": 30,
       Reward: 5000,
@@ -457,7 +457,7 @@ const storyMissionsData = {
       requiredMissionWins: 120,
     },
   
-    "Cosmic Confrontation - Part 2": {
+    "Ambush Vortex Forces": {
       "Required Credits": 4000,
       "Required Energy": 40,
       Reward: 7500,
@@ -475,7 +475,7 @@ const storyMissionsData = {
       requiredMissionWins: 125,
     },
   
-    "Cosmic Confrontation - Part 3": {
+    "Foil Vortex Trapping": {
       "Required Credits": 5000,
       "Required Energy": 50,
       Reward: 10000,
@@ -491,6 +491,261 @@ const storyMissionsData = {
         "ECHO: Our attempt at the final cosmic confrontation faced tremendous adversity. But remember, the spirit of unity endures.",
   
       requiredMissionWins: 130,
+    },
+    "Destroy Bioweapon Stockpiles": {
+      "Required Credits": 5000,
+      "Required Energy": 50,
+      Reward: 10000,
+      Experience: 150,
+      Rank: 50,
+      requiredEquipment: {},
+      "Health Effect": 0,
+      startMessage:
+        "ECHO: Jahntow, this is the final push. Lead the united alien alliance in the ultimate cosmic confrontation against the Space Corporation. The time for liberation is now.",
+      successMessage:
+        "ECHO: The cosmic confrontation is victorious. The united alien alliance triumphs, earning you 10000 credits and 150 experience. The cosmos is free once more.",
+      failureMessage:
+        "ECHO: Our attempt at the final cosmic confrontation faced tremendous adversity. But remember, the spirit of unity endures.",
+  
+      requiredMissionWins: 135,
+    },
+    "Learn Forest Regrowth Rituals": {
+      "Required Credits": 5000,
+      "Required Energy": 50,
+      Reward: 10000,
+      Experience: 150,
+      Rank: 50,
+      requiredEquipment: {},
+      "Health Effect": 0,
+      startMessage:
+        "ECHO: Jahntow, this is the final push. Lead the united alien alliance in the ultimate cosmic confrontation against the Space Corporation. The time for liberation is now.",
+      successMessage:
+        "ECHO: The cosmic confrontation is victorious. The united alien alliance triumphs, earning you 10000 credits and 150 experience. The cosmos is free once more.",
+      failureMessage:
+        "ECHO: Our attempt at the final cosmic confrontation faced tremendous adversity. But remember, the spirit of unity endures.",
+  
+      requiredMissionWins: 140,
+    },
+    "Defend the Heart of the Forest": {
+      "Required Credits": 5000,
+      "Required Energy": 50,
+      Reward: 10000,
+      Experience: 150,
+      Rank: 50,
+      requiredEquipment: {},
+      "Health Effect": 0,
+      startMessage:
+        "ECHO: Jahntow, this is the final push. Lead the united alien alliance in the ultimate cosmic confrontation against the Space Corporation. The time for liberation is now.",
+      successMessage:
+        "ECHO: The cosmic confrontation is victorious. The united alien alliance triumphs, earning you 10000 credits and 150 experience. The cosmos is free once more.",
+      failureMessage:
+        "ECHO: Our attempt at the final cosmic confrontation faced tremendous adversity. But remember, the spirit of unity endures.",
+  
+      requiredMissionWins: 145,
+    },
+    "Scout Vortex Facilities": {
+      "Required Credits": 5000,
+      "Required Energy": 50,
+      Reward: 10000,
+      Experience: 150,
+      Rank: 50,
+      requiredEquipment: {},
+      "Health Effect": 0,
+      startMessage:
+        "ECHO: Jahntow, this is the final push. Lead the united alien alliance in the ultimate cosmic confrontation against the Space Corporation. The time for liberation is now.",
+      successMessage:
+        "ECHO: The cosmic confrontation is victorious. The united alien alliance triumphs, earning you 10000 credits and 150 experience. The cosmos is free once more.",
+      failureMessage:
+        "ECHO: Our attempt at the final cosmic confrontation faced tremendous adversity. But remember, the spirit of unity endures.",
+  
+      requiredMissionWins: 150,
+    },
+    "Disrupt Executive Speeches": {
+      "Required Credits": 5000,
+      "Required Energy": 50,
+      Reward: 10000,
+      Experience: 150,
+      Rank: 50,
+      requiredEquipment: {},
+      "Health Effect": 0,
+      startMessage:
+        "ECHO: Jahntow, this is the final push. Lead the united alien alliance in the ultimate cosmic confrontation against the Space Corporation. The time for liberation is now.",
+      successMessage:
+        "ECHO: The cosmic confrontation is victorious. The united alien alliance triumphs, earning you 10000 credits and 150 experience. The cosmos is free once more.",
+      failureMessage:
+        "ECHO: Our attempt at the final cosmic confrontation faced tremendous adversity. But remember, the spirit of unity endures.",
+  
+      requiredMissionWins: 155,
+    },
+    "Make Vortex Mechs Malfunction": {
+      "Required Credits": 5000,
+      "Required Energy": 50,
+      Reward: 10000,
+      Experience: 150,
+      Rank: 50,
+      requiredEquipment: {},
+      "Health Effect": 0,
+      startMessage:
+        "ECHO: Jahntow, this is the final push. Lead the united alien alliance in the ultimate cosmic confrontation against the Space Corporation. The time for liberation is now.",
+      successMessage:
+        "ECHO: The cosmic confrontation is victorious. The united alien alliance triumphs, earning you 10000 credits and 150 experience. The cosmos is free once more.",
+      failureMessage:
+        "ECHO: Our attempt at the final cosmic confrontation faced tremendous adversity. But remember, the spirit of unity endures.",
+  
+      requiredMissionWins: 160,
+    },
+    "Create Illusions to Confuse Vortex": {
+      "Required Credits": 5000,
+      "Required Energy": 50,
+      Reward: 10000,
+      Experience: 150,
+      Rank: 50,
+      requiredEquipment: {},
+      "Health Effect": 0,
+      startMessage:
+        "ECHO: Jahntow, this is the final push. Lead the united alien alliance in the ultimate cosmic confrontation against the Space Corporation. The time for liberation is now.",
+      successMessage:
+        "ECHO: The cosmic confrontation is victorious. The united alien alliance triumphs, earning you 10000 credits and 150 experience. The cosmos is free once more.",
+      failureMessage:
+        "ECHO: Our attempt at the final cosmic confrontation faced tremendous adversity. But remember, the spirit of unity endures.",
+  
+      requiredMissionWins: 165,
+    },
+    "Lead Astral Projection Assaults": {
+      "Required Credits": 5000,
+      "Required Energy": 50,
+      Reward: 10000,
+      Experience: 150,
+      Rank: 50,
+      requiredEquipment: {},
+      "Health Effect": 0,
+      startMessage:
+        "ECHO: Jahntow, this is the final push. Lead the united alien alliance in the ultimate cosmic confrontation against the Space Corporation. The time for liberation is now.",
+      successMessage:
+        "ECHO: The cosmic confrontation is victorious. The united alien alliance triumphs, earning you 10000 credits and 150 experience. The cosmos is free once more.",
+      failureMessage:
+        "ECHO: Our attempt at the final cosmic confrontation faced tremendous adversity. But remember, the spirit of unity endures.",
+  
+      requiredMissionWins: 170,
+    },
+    "Final Psychic Showdown": {
+      "Required Credits": 5000,
+      "Required Energy": 50,
+      Reward: 10000,
+      Experience: 150,
+      Rank: 50,
+      requiredEquipment: {},
+      "Health Effect": 0,
+      startMessage:
+        "ECHO: Jahntow, this is the final push. Lead the united alien alliance in the ultimate cosmic confrontation against the Space Corporation. The time for liberation is now.",
+      successMessage:
+        "ECHO: The cosmic confrontation is victorious. The united alien alliance triumphs, earning you 10000 credits and 150 experience. The cosmos is free once more.",
+      failureMessage:
+        "ECHO: Our attempt at the final cosmic confrontation faced tremendous adversity. But remember, the spirit of unity endures.",
+  
+      requiredMissionWins: 175,
+    },
+    "Vortex Corp: Infiltration": {
+      "Required Credits": 5000,
+      "Required Energy": 50,
+      Reward: 10000,
+      Experience: 150,
+      Rank: 50,
+      requiredEquipment: {},
+      "Health Effect": 0,
+      startMessage:
+        "ECHO: Jahntow, this is the final push. Lead the united alien alliance in the ultimate cosmic confrontation against the Space Corporation. The time for liberation is now.",
+      successMessage:
+        "ECHO: The cosmic confrontation is victorious. The united alien alliance triumphs, earning you 10000 credits and 150 experience. The cosmos is free once more.",
+      failureMessage:
+        "ECHO: Our attempt at the final cosmic confrontation faced tremendous adversity. But remember, the spirit of unity endures.",
+  
+      requiredMissionWins: 180,
+    },
+    "Vortex Corp: Inside the Fortress": {
+      "Required Credits": 5000,
+      "Required Energy": 50,
+      Reward: 10000,
+      Experience: 150,
+      Rank: 50,
+      requiredEquipment: {},
+      "Health Effect": 0,
+      startMessage:
+        "ECHO: Jahntow, this is the final push. Lead the united alien alliance in the ultimate cosmic confrontation against the Space Corporation. The time for liberation is now.",
+      successMessage:
+        "ECHO: The cosmic confrontation is victorious. The united alien alliance triumphs, earning you 10000 credits and 150 experience. The cosmos is free once more.",
+      failureMessage:
+        "ECHO: Our attempt at the final cosmic confrontation faced tremendous adversity. But remember, the spirit of unity endures.",
+  
+      requiredMissionWins: 185,
+    },
+    "Vortex Corp: Betrayal": {
+      "Required Credits": 5000,
+      "Required Energy": 50,
+      Reward: 10000,
+      Experience: 150,
+      Rank: 50,
+      requiredEquipment: {},
+      "Health Effect": 0,
+      startMessage:
+        "ECHO: Jahntow, this is the final push. Lead the united alien alliance in the ultimate cosmic confrontation against the Space Corporation. The time for liberation is now.",
+      successMessage:
+        "ECHO: The cosmic confrontation is victorious. The united alien alliance triumphs, earning you 10000 credits and 150 experience. The cosmos is free once more.",
+      failureMessage:
+        "ECHO: Our attempt at the final cosmic confrontation faced tremendous adversity. But remember, the spirit of unity endures.",
+  
+      requiredMissionWins: 190,
+    },
+    "Vortex Corp: Disabling the Defenses": {
+      "Required Credits": 5000,
+      "Required Energy": 50,
+      Reward: 10000,
+      Experience: 150,
+      Rank: 50,
+      requiredEquipment: {},
+      "Health Effect": 0,
+      startMessage:
+        "ECHO: Jahntow, this is the final push. Lead the united alien alliance in the ultimate cosmic confrontation against the Space Corporation. The time for liberation is now.",
+      successMessage:
+        "ECHO: The cosmic confrontation is victorious. The united alien alliance triumphs, earning you 10000 credits and 150 experience. The cosmos is free once more.",
+      failureMessage:
+        "ECHO: Our attempt at the final cosmic confrontation faced tremendous adversity. But remember, the spirit of unity endures.",
+  
+      requiredMissionWins: 195,
+    },
+    "Vortex Corp: Confrontation with Xaezor": {
+      "Required Credits": 5000,
+      "Required Energy": 50,
+      Reward: 10000,
+      Experience: 150,
+      Rank: 50,
+      requiredEquipment: {},
+      "Health Effect": 0,
+      startMessage:
+        "ECHO: Jahntow, this is the final push. Lead the united alien alliance in the ultimate cosmic confrontation against the Space Corporation. The time for liberation is now.",
+      successMessage:
+        "ECHO: The cosmic confrontation is victorious. The united alien alliance triumphs, earning you 10000 credits and 150 experience. The cosmos is free once more.",
+      failureMessage:
+        "ECHO: Our attempt at the final cosmic confrontation faced tremendous adversity. But remember, the spirit of unity endures.",
+  
+      requiredMissionWins: 200,
+    },
+    "Victory and Aftermath:": {
+      "Required Credits": 5000,
+      "Required Energy": 50,
+      Reward: 10000,
+      Experience: 150,
+      Rank: 50,
+      requiredEquipment: {},
+      "Health Effect": 0,
+      startMessage:
+        "ECHO: Jahntow, this is the final push. Lead the united alien alliance in the ultimate cosmic confrontation against the Space Corporation. The time for liberation is now.",
+      successMessage:
+        "ECHO: The cosmic confrontation is victorious. The united alien alliance triumphs, earning you 10000 credits and 150 experience. The cosmos is free once more.",
+      failureMessage:
+        "ECHO: Our attempt at the final cosmic confrontation faced tremendous adversity. But remember, the spirit of unity endures.",
+  
+      requiredMissionWins: 205,
     },
   };
   

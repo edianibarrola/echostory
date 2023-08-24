@@ -1086,191 +1086,224 @@
   // Expose Vortex Scandals (1-5)
 "Mission 165": {
     Characters: ["jahntow", "zhalia"],
-    Title: "Expose Vortex Scandals 1",
+    Title: "Create Illusions to Confuse Vortex 1",
     Message: "Jahntow and Zhalia work to expose Vortex's unethical practices and scandals, weakening their public image.",
     requiredMissionWins: 165,
   },
   "Mission 166": {
     Characters: ["jahntow", "zhalia"],
-    Title: "Expose Vortex Scandals 2",
+    Title: "Create Illusions to Confuse Vortex 2",
     Message: "The first scandal has been exposed. Move on to the next one.",
     requiredMissionWins: 166,
   },
   "Mission 167": {
     Characters: ["jahntow", "zhalia"],
-    Title: "Expose Vortex Scandals 3",
+    Title: "Create Illusions to Confuse Vortex 3",
     Message: "Vortex is deploying countermeasures to suppress the scandals. Be prepared for stronger resistance.",
     requiredMissionWins: 167,
   },
   "Mission 168": {
     Characters: ["jahntow", "zhalia"],
-    Title: "Expose Vortex Scandals 4",
+    Title: "Create Illusions to Confuse Vortex 4",
     Message: "Almost all the scandals have been exposed. Just one more to go.",
     requiredMissionWins: 168,
   },
   "Mission 169": {
     Characters: ["jahntow", "zhalia"],
-    Title: "Expose Vortex Scandals 5",
+    Title: "Create Illusions to Confuse Vortex 5",
     Message: "This is the final scandal. Expose it to severely damage Vortex's reputation.",
     requiredMissionWins: 169,
   },
-// Lead the Uprising (1-5)
+// Lead Astral Projection Assaults (1-5)
 "Mission 170": {
     Characters: ["jahntow", "zhalia"],
-    Title: "Lead the Uprising 1",
+    Title: "Lead Astral Projection Assaults 1",
     Message: "In the climax, Jahntow and Zhalia lead an uprising against Vortex, rallying the Namarupian populace to reclaim their city.",
     requiredMissionWins: 170,
   },
   "Mission 171": {
     Characters: ["jahntow", "zhalia"],
-    Title: "Lead the Uprising 2",
+    Title: "Lead Astral Projection Assaults 2",
     Message: "The first district has been liberated. Move on to the next one.",
     requiredMissionWins: 171,
   },
   "Mission 172": {
     Characters: ["jahntow", "zhalia"],
-    Title: "Lead the Uprising 3",
+    Title: "Lead Astral Projection Assaults 3",
     Message: "Vortex is deploying their elite troops. Be prepared for stronger resistance.",
     requiredMissionWins: 172,
   },
   "Mission 173": {
     Characters: ["jahntow", "zhalia"],
-    Title: "Lead the Uprising 4",
+    Title: "Lead Astral Projection Assaults 4",
     Message: "Almost all the districts have been liberated. Just one more to go.",
     requiredMissionWins: 173,
   },
   "Mission 174": {
     Characters: ["jahntow", "zhalia"],
-    Title: "Lead the Uprising 5",
+    Title: "Lead Astral Projection Assaults 5",
     Message: "This is the final district. Liberate it to complete the uprising and free the Namarupian city from Vortex.",
     requiredMissionWins: 174,
   },
 
-  // Final Mission Against Vortex
+ 
 
-// Infiltration (1-5)
+// Final Psychic Showdown (1-5)
 "Mission 175": {
     Characters: ["jahntow", "zuark", "ava"],
-    Title: "Infiltration 1",
+    Title: "Final Psychic Showdown 1",
     Message: "The team begins their covert approach to the Vortex fortress using stealth gliders.",
     requiredMissionWins: 175,
   },
   "Mission 176": {
     Characters: ["jahntow", "zuark", "ava"],
-    Title: "Infiltration 2",
+    Title: "Final Psychic Showdown 2",
     Message: "The team lands on a secluded ledge, avoiding Vortex detection systems.",
     requiredMissionWins: 176,
   },
   "Mission 177": {
     Characters: ["jahntow", "zuark", "ava"],
-    Title: "Infiltration 3",
+    Title: "Final Psychic Showdown 3",
     Message: "The team successfully bypasses the first layer of Vortex security.",
     requiredMissionWins: 177,
   },
   "Mission 178": {
     Characters: ["jahntow", "zuark", "ava"],
-    Title: "Infiltration 4",
+    Title: "Final Psychic Showdown 4",
     Message: "The team encounters and neutralizes Vortex patrols without raising alarms.",
     requiredMissionWins: 178,
   },
   "Mission 179": {
     Characters: ["jahntow", "zuark", "ava"],
-    Title: "Infiltration 5",
+    Title: "Final Psychic Showdown 5",
     Message: "The team reaches the inner perimeter of the Vortex fortress, ready for the next phase.",
     requiredMissionWins: 179,
+  },
+
+ // Final Mission Against Vortex
+// Infiltration (1-5)
+"Mission 175": {
+    Characters: ["jahntow", "zuark", "ava"],
+    Title: "Infiltration 1",
+    Message: "The team begins their covert approach to the Vortex fortress using stealth gliders.",
+    requiredMissionWins: 180,
+  },
+  "Mission 176": {
+    Characters: ["jahntow", "zuark", "ava"],
+    Title: "Infiltration 2",
+    Message: "The team lands on a secluded ledge, avoiding Vortex detection systems.",
+    requiredMissionWins: 181,
+  },
+  "Mission 177": {
+    Characters: ["jahntow", "zuark", "ava"],
+    Title: "Infiltration 3",
+    Message: "The team successfully bypasses the first layer of Vortex security.",
+    requiredMissionWins: 182,
+  },
+  "Mission 178": {
+    Characters: ["jahntow", "zuark", "ava"],
+    Title: "Infiltration 4",
+    Message: "The team encounters and neutralizes Vortex patrols without raising alarms.",
+    requiredMissionWins: 183,
+  },
+  "Mission 179": {
+    Characters: ["jahntow", "zuark", "ava"],
+    Title: "Infiltration 5",
+    Message: "The team reaches the inner perimeter of the Vortex fortress, ready for the next phase.",
+    requiredMissionWins: 184,
   },
   // Inside the Fortress (1-5)
 "Mission 180": {
     Characters: ["jahntow", "zuark", "ava"],
     Title: "Inside the Fortress 1",
     Message: "The team navigates the initial corridors of the Vortex fortress.",
-    requiredMissionWins: 180,
+    requiredMissionWins: 185,
   },
   "Mission 181": {
     Characters: ["jahntow", "zuark", "ava"],
     Title: "Inside the Fortress 2",
     Message: "The team rescues prisoners and gains valuable intel about the fortress's layout.",
-    requiredMissionWins: 181,
+    requiredMissionWins: 186,
   },
   "Mission 182": {
     Characters: ["jahntow", "zuark", "ava"],
     Title: "Inside the Fortress 3",
     Message: "The team avoids traps and engages in skirmishes with Vortex soldiers.",
-    requiredMissionWins: 182,
+    requiredMissionWins: 187,
   },
   "Mission 183": {
     Characters: ["jahntow", "zuark", "ava"],
     Title: "Inside the Fortress 4",
     Message: "The team successfully navigates through a maze of corridors, getting closer to their objective.",
-    requiredMissionWins: 183,
+    requiredMissionWins: 188,
   },
   "Mission 184": {
     Characters: ["jahntow", "zuark", "ava"],
     Title: "Inside the Fortress 5",
     Message: "The team reaches the central area of the fortress, preparing for the next phase of their mission.",
-    requiredMissionWins: 184,
+    requiredMissionWins: 189,
   },
   // Betrayal (1-5)
 "Mission 185": {
     Characters: ["jahntow", "zuark", "ava"],
     Title: "Betrayal 1",
     Message: "Director Zerrok, previously thought to be an ally, reveals his allegiance to Vortex.",
-    requiredMissionWins: 185,
+    requiredMissionWins: 190,
   },
   "Mission 186": {
     Characters: ["jahntow", "zuark", "ava"],
     Title: "Betrayal 2",
     Message: "Zerrok attempts to sabotage the mission but is confronted by his daughter, Ava.",
-    requiredMissionWins: 186,
+    requiredMissionWins: 191,
   },
   "Mission 187": {
     Characters: ["jahntow", "zuark", "ava"],
     Title: "Betrayal 3",
     Message: "In a tense standoff, Ava is fatally wounded.",
-    requiredMissionWins: 187,
+    requiredMissionWins: 192,
   },
   "Mission 188": {
     Characters: ["jahntow", "zuark", "ava"],
     Title: "Betrayal 4",
     Message: "Despite her injuries, Ava manages to incapacitate her father.",
-    requiredMissionWins: 188,
+    requiredMissionWins: 193,
   },
   "Mission 189": {
     Characters: ["jahntow", "zuark"],
     Title: "Betrayal 5",
     Message: "The team regroups and continues their mission, vowing to honor Ava's sacrifice.",
-    requiredMissionWins: 189,
+    requiredMissionWins: 194,
   },
 // Disabling the Defenses (1-5)
 "Mission 190": {
     Characters: ["jahntow", "zuark", "ava"],
     Title: "Disabling the Defenses 1",
     Message: "Using the intel from the rescued prisoners, the team locates the fortress's main control room.",
-    requiredMissionWins: 190,
+    requiredMissionWins: 195,
   },
   "Mission 191": {
     Characters: ["jahntow", "zuark", "ava"],
     Title: "Disabling the Defenses 2",
     Message: "The team encounters resistance but manages to reach the control room.",
-    requiredMissionWins: 191,
+    requiredMissionWins: 196,
   },
   "Mission 192": {
     Characters: ["jahntow", "zuark"],
     Title: "Disabling the Defenses 3",
     Message: "Echo hacks into the system, disabling the automated turrets.",
-    requiredMissionWins: 192,
+    requiredMissionWins: 197,
   },
   "Mission 193": {
     Characters: ["jahntow", "zuark"],
     Title: "Disabling the Defenses 4",
     Message: "The force fields are lowered, allowing the united tribes of Zephyr to launch a full-scale assault.",
-    requiredMissionWins: 193,
+    requiredMissionWins: 198,
   },
   "Mission 194": {
     Characters: ["jahntow", "zuark"],
     Title: "Disabling the Defenses 5",
     Message: "The team successfully disables all of Vortex's defenses, setting the stage for the final confrontation.",
-    requiredMissionWins: 194,
+    requiredMissionWins: 199,
   },
 
   // Confrontation with Xaezor (1-5)
@@ -1278,32 +1311,71 @@
     Characters: ["jahntow", "zuark"],
     Title: "Confrontation with Xaezor 1",
     Message: "Jahntow and Zu'ark confront Xaezor in the heart of the fortress.",
-    requiredMissionWins: 195,
+    requiredMissionWins: 200,
   },
   "Mission 196": {
     Characters: ["jahntow", "zuark"],
     Title: "Confrontation with Xaezor 2",
     Message: "Xaezor reveals that he orchestrated the crash that left Jahntow orphaned on Zephyr.",
-    requiredMissionWins: 196,
+    requiredMissionWins: 201,
   },
   "Mission 197": {
     Characters: ["jahntow", "zuark"],
     Title: "Confrontation with Xaezor 3",
     Message: "Jahntow and Zu'ark engage in a climactic battle with Xaezor.",
-    requiredMissionWins: 197,
+    requiredMissionWins: 202,
   },
   "Mission 198": {
     Characters: ["jahntow", "zuark"],
     Title: "Confrontation with Xaezor 4",
     Message: "Xaezor's control over Vortex technology and dark magic poses a formidable challenge.",
-    requiredMissionWins: 198,
+    requiredMissionWins: 203,
   },
   "Mission 199": {
     Characters: ["jahntow", "zuark"],
     Title: "Confrontation with Xaezor 5",
     Message: "Using a combination of combat skills and strategy, Jahntow and Zu'ark manage to defeat Xaezor.",
-    requiredMissionWins: 199,
+    requiredMissionWins: 204,
   },
+  // Victory and Aftermath (1-5)
+"Mission 200": {
+    Characters: ["jahntow", "zuark"],
+    Title: "Victory and Aftermath 1",
+    Message: "With Xaezor defeated and the Vortex threat neutralized, the tribes of Zephyr celebrate their hard-fought victory.",
+    requiredMissionWins: 205,
+  },
+  "Mission 201": {
+    Characters: ["jahntow", "zuark"],
+    Title: "Victory and Aftermath 2",
+    Message: "Jahntow, despite the personal losses he suffered, is hailed as a hero by the united tribes.",
+    requiredMissionWins: 206,
+  },
+  "Mission 202": {
+    Characters: ["jahntow", "zuark"],
+    Title: "Victory and Aftermath 3",
+    Message: "The tribes of Zephyr honor the memory of those who fell during the conflict.",
+    requiredMissionWins: 207,
+  },
+  "Mission 203": {
+    Characters: ["jahntow", "zuark"],
+    Title: "Victory and Aftermath 4",
+    Message: "The united tribes pledge to rebuild their city and protect their planet from future threats.",
+    requiredMissionWins: 208,
+  },
+  "Mission 204": {
+    Characters: ["jahntow", "zuark"],
+    Title: "Victory and Aftermath 5",
+    Message: "As the sun sets on a new era, the tribes of Zephyr stand united, ready to face whatever challenges lie ahead.",
+    requiredMissionWins: 209,
+  },
+
+  "Mission 205": {
+    Characters: ["jahntow", "zuark"],
+    Title: "Peace Restored",
+    Message: "You have restored peace to the planet. Congratulations.",
+    requiredMissionWins: 210,
+  },
+  
   
 
   };
